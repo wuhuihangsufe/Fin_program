@@ -1,0 +1,40 @@
+﻿EventID [事件ID] - 记录IPO的事件ID
+Symbol [股票代码] - 
+ShortName [证券简称] - 最新的简称
+FullName [公司全称] - 最新的全称
+EstablishDate [公司成立日期] - 公司成立日期
+ABSymbol [AB股交叉码] - 目前AB股交叉情况
+HSymbol [H股交叉码] - 目前H股交叉情况
+IsIPO [是否首次发行] - A是、B否，仅是针对AB股
+IpoDate [首次招股日期] - YYYY-MM-DD
+IPO1DeclareDate [招股意向书公告日期] - YYYY-MM-DD
+SignDate [招股说明书签署日期] - YYYY-MM-DD
+IPO2DeclareDate [招股说明书公布日期] - YYYY-MM-DD
+RoadShowStartDate [路演开始日期] - YYYY-MM-DD
+RoadShowEndDate [路演截止日期] - YYYY-MM-DD
+IPO3DeclareDate [发行定价公告日期] - YYYY-MM-DD
+StartDate [招股开始日期] - YYYY-MM-DD
+EndDate [招股截至日期] - YYYY-MM-DD
+OnlineStartDate [网上申购开始日期] - YYYY-MM-DD
+OnlineEndDate [网上申购截止日期] - YYYY-MM-DD
+OfflineStartDate [网下配售起始日期] - YYYY-MM-DD
+OfflineEndDate [网下配售截止日期] - YYYY-MM-DD
+SecondaryMarketIssueDate [二级市场配售日期] - YYYY-MM-DD
+IPO4DeclareDate [上市公告书公布日期] - YYYY-MM-DD
+ListedDate [上市日期] - YYYY-MM-DD，指代码的上市日期
+DelistedDate [退市日期] - YYYY-MM-DD，指代码的退市日期
+IssuePrice [发行价] - 
+CurrencyCode [发行币种] - A股为CNY人民币元，上海B股为USD美元，深圳B股为HKD港元
+NAV1 [发行前每股净资产] - 
+NAV2 [发行后每股净资产] - 
+EPS1 [发行前每股收益] - 
+EPS2 [发行后每股收益] - 
+ActualIssueShares [发行数量] - 
+RaiseFund [募集资金] - 
+ListSign [是否借壳上市] - A是、B否
+EarliestBackdoorDate [最早借壳日期] - 借代码壳的最早的公司的上市日期
+LatestBackdoorDate [最新借壳日期] - 借代码壳的最新的公司的上市日期
+IPOIndustryCode [IPO时行业代码] - 
+IPOIndustryName [IPO时行业] - IPO上市时证监会所属行业
+LatestIndustryCode [最新行业代码] - 
+LatestIndustryName [最新行业] - 最新证监会所属行业
